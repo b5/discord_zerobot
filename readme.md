@@ -1,0 +1,3 @@
+# zerobot
+
+a discord bot
